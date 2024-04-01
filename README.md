@@ -7,7 +7,7 @@
 
 ## Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" />
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
           
           
