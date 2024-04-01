@@ -5,4 +5,8 @@
 - 🖥️ Desenvolvedor Backend
 - 📖 Estudante do 5º Período de Sistemas de Informação
 
-Atualmente estagiário em Desenvolvimento de Software, atuando com principalmente com Java/Spring Boot e Java Script/React
+## Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+          
+
