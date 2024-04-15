@@ -1,5 +1,5 @@
 # Samuel Rivelli
-//teste
+
 ## Hello, world!
 
 - 🖥️ Desenvolvedor Backend
