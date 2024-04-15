@@ -5,12 +5,6 @@
 - 🖥️ Desenvolvedor Backend
 - 📖 Estudante do 5º Período de Sistemas de Informação
 
-- <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrivelli&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelrivelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ## Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
