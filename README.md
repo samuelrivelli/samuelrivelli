@@ -5,7 +5,7 @@
 - 🖥️ Desenvolvedor Backend
 - 📖 Estudante do 5º Período de Sistemas de Informação
 
-- ![Most Used Language](https://img.shields.io/github/languages/top/samuelrivelli/reponame)
+- ![Most Used Languages](https://img.shields.io/github/languages/count/samuelrivelli)
 
 
 ## Tecnologias
