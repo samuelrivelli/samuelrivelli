@@ -2,7 +2,7 @@
 
 ## Hello, world!
 
-- 🖥️ Desenvolvedor Backend
+- 🖥️ Desenvolvedor de Software
 - 📖 Estudante do 5º Período de Sistemas de Informação
 
 ## Tecnologias
