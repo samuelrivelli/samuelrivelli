@@ -3,7 +3,7 @@
 ## Hello, world!
 
 - 🖥️ Desenvolvedor de Software
-- 📖 Estudante do 5º Período de Sistemas de Informação
+- 📖 Estudante do 6º Período de Sistemas de Informação
 
 ## Tecnologias
 
